@@ -1,0 +1,6 @@
+#!/bin/sh
+# 0 is start DMA
+#echo 0 > /dev/altera_dma
+#dmesg;
+./user/user
+

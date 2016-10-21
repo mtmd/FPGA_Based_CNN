@@ -1,0 +1,1 @@
+cmd_/media/sachin/Work10/Research/pcie_linux_driver/altera_dma.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /media/sachin/Work10/Research/pcie_linux_driver/altera_dma.ko /media/sachin/Work10/Research/pcie_linux_driver/altera_dma.o /media/sachin/Work10/Research/pcie_linux_driver/altera_dma.mod.o

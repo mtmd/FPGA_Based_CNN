@@ -1,0 +1,252 @@
+# # File gsaved with Nlview version 6.3.8  2013-12-19 bk=1.2992 VDI=34 GEI=35
+# 
+preplace inst mem_system.IN_BUF_0 -pg 1 -lvl 6 -y 120
+preplace inst mem_system.mem_if_ddr3_emif_0.dmaster.clk_src -pg 1
+preplace inst mem_system.IN_BUF_1 -pg 1 -lvl 6 -y 280
+preplace inst mem_system.W_BUF_0_1_EX -pg 1 -lvl 6 -y 3520
+preplace inst mem_system.pcie_system.clock_export_ocmem -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.afi_half_clk -pg 1
+preplace inst mem_system.OUT_BUF_4_P2_EX -pg 1 -lvl 6 -y 1780
+preplace inst mem_system.W_BUF_1_0_EX -pg 1 -lvl 6 -y 3710
+preplace inst mem_system.pcie_system.reset_export_ocmem -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.c0.a0 -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.c0.afi_clk -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.c0.ng0 -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.dmaster.b2p_adapter -pg 1
+preplace inst mem_system.OUT_BUF_3_P2_EX -pg 1 -lvl 6 -y 1500
+preplace inst mem_system.mem_if_ddr3_emif_0.dmaster.transacto -pg 1
+preplace inst mem_system.W_BUF_7_1_EX -pg 1 -lvl 6 -y 6110
+preplace inst mem_system.OUT_BUF_0_P1_EX -pg 1 -lvl 6 -y 380
+preplace inst mem_system.mem_if_ddr3_emif_0.dmaster.p2b_adapter -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.afi_reset -pg 1
+preplace inst mem_system.OUT_BUF_5_P2_EX -pg 1 -lvl 6 -y 2140
+preplace inst mem_system.W_BUF_3_0_EX -pg 1 -lvl 6 -y 4410
+preplace inst mem_system.OUT_BUF_1_P2_EX -pg 1 -lvl 6 -y 900
+preplace inst mem_system.pcie_system.avalon_export_ocmem -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.pll_ref_clk -pg 1
+preplace inst mem_system.OUT_BUF_6_P2_EX -pg 1 -lvl 6 -y 2440
+preplace inst mem_system.W_BUF_2_0 -pg 1 -lvl 6 -y 3970
+preplace inst mem_system.W_BUF_6_1_EX -pg 1 -lvl 6 -y 5730
+preplace inst mem_system.mem_if_ddr3_emif_0.soft_reset -pg 1
+preplace inst mem_system.W_BUF_2_1 -pg 1 -lvl 6 -y 4150
+preplace inst mem_system.W_BUF_7_0_EX -pg 1 -lvl 6 -y 5910
+preplace inst mem_system.sys_clk_0 -pg 1 -lvl 1 -y 3060
+preplace inst mem_system.pcie_system.clock_src_reconfig_xcvr -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.dll0 -pg 1
+preplace inst mem_system.W_BUF_4_1_EX -pg 1 -lvl 6 -y 4990
+preplace inst mem_system.From_CC -pg 1 -lvl 6 -y 3040
+preplace inst mem_system.W_BUF_1_1_EX -pg 1 -lvl 6 -y 3870
+preplace inst mem_system.mem_if_ddr3_emif_0.s0 -pg 1
+preplace inst mem_system.OUT_BUF_7_P1_EX -pg 1 -lvl 6 -y 2960
+preplace inst mem_system.W_BUF_5_0_EX -pg 1 -lvl 6 -y 5170
+preplace inst mem_system.mem_if_ddr3_export_bridge -pg 1 -lvl 2 -y 2550
+preplace inst mem_system.mem_if_ddr3_emif_0.dmaster.timing_adt -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.afi_clk -pg 1
+preplace inst mem_system.IN_BUF_1_EX -pg 1 -lvl 6 -y 200
+preplace inst mem_system.W_BUF_5_0 -pg 1 -lvl 6 -y 5090
+preplace inst mem_system.pld_clk_export -pg 1 -lvl 2 -y 1920
+preplace inst mem_system.pcie_system -pg 1 -lvl 1 -y 2660
+preplace inst mem_system.mem_if_ddr3_emif_0.dmaster.clk_rst -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.p0 -pg 1
+preplace inst mem_system.W_BUF_5_1 -pg 1 -lvl 6 -y 5270
+preplace inst mem_system -pg 1 -lvl 1 -y 40 -regy -20
+preplace inst mem_system.mem_if_ddr3_emif_0.oct0 -pg 1
+preplace inst mem_system.pcie_system.onchip_memory2_0 -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.m0 -pg 1
+preplace inst mem_system.pcie_system.reset_export_pcie -pg 1
+preplace inst mem_system.OUT_BUF_0_P2_EX -pg 1 -lvl 6 -y 580
+preplace inst mem_system.OUT_BUF_2_P2_EX -pg 1 -lvl 6 -y 1200
+preplace inst mem_system.W_BUF_6_0 -pg 1 -lvl 6 -y 5450
+preplace inst mem_system.mem_if_ddr3_emif_0.afi_reset_export -pg 1
+preplace inst mem_system.W_BUF_6_1 -pg 1 -lvl 6 -y 5630
+preplace inst mem_system.To_CC -pg 1 -lvl 6 -y 3140
+preplace inst mem_system.mem_if_ddr3_emif_0.dmaster.fifo -pg 1
+preplace inst mem_system.W_BUF_0_0_EX -pg 1 -lvl 6 -y 3340
+preplace inst mem_system.OUT_BUF_4_P1_EX -pg 1 -lvl 6 -y 1580
+preplace inst mem_system.mem_if_ddr3_emif_0.pll0 -pg 1
+preplace inst mem_system.OUT_BUF_6_P1_EX -pg 1 -lvl 6 -y 2360
+preplace inst mem_system.cent_ctrl -pg 1 -lvl 5 -y 2000
+preplace inst mem_system.pcie_system.clock_export_pld -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.dmaster.b2p -pg 1
+preplace inst mem_system.sys_clk_export -pg 1 -lvl 4 -y 1940
+preplace inst mem_system.mem_if_ddr3_emif_0.as0 -pg 1
+preplace inst mem_system.W_BUF_6_0_EX -pg 1 -lvl 6 -y 5550
+preplace inst mem_system.W_BUF_4_0 -pg 1 -lvl 6 -y 4690
+preplace inst mem_system.W_BUF_4_1 -pg 1 -lvl 6 -y 4890
+preplace inst mem_system.pcie_system.pcie_reconfig_driver_0 -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.dmaster -pg 1
+preplace inst mem_system.W_BUF_2_1_EX -pg 1 -lvl 6 -y 4230
+preplace inst mem_system.W_BUF_2_0_EX -pg 1 -lvl 6 -y 4070
+preplace inst mem_system.W_BUF_7_0 -pg 1 -lvl 6 -y 5810
+preplace inst mem_system.pcie_system.alt_xcvr_reconfig_0 -pg 1
+preplace inst mem_system.OUT_BUF_3_P1_EX -pg 1 -lvl 6 -y 1420
+preplace inst mem_system.W_BUF_7_1 -pg 1 -lvl 6 -y 6010
+preplace inst mem_system.mem_if_ddr3_emif_0.c0.afi_half_clk -pg 1
+preplace inst mem_system.W_BUF_0_0 -pg 1 -lvl 6 -y 3240
+preplace inst mem_system.OUT_BUF_2_P1_EX -pg 1 -lvl 6 -y 1100
+preplace inst mem_system.OUT_BUF_1_P1_EX -pg 1 -lvl 6 -y 680
+preplace inst mem_system.mem_if_ddr3_emif_0.pll_bridge -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.c0.afi_reset -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.global_reset -pg 1
+preplace inst mem_system.OUT_BUF_0 -pg 1 -lvl 6 -y 460
+preplace inst mem_system.W_BUF_3_1_EX -pg 1 -lvl 6 -y 4590
+preplace inst mem_system.W_BUF_0_1 -pg 1 -lvl 6 -y 3420
+preplace inst mem_system.pcie_system.avalon_export_bar2 -pg 1
+preplace inst mem_system.W_BUF_5_1_EX -pg 1 -lvl 6 -y 5350
+preplace inst mem_system.OUT_BUF_1 -pg 1 -lvl 6 -y 780
+preplace inst mem_system.OUT_BUF_2 -pg 1 -lvl 6 -y 1000
+preplace inst mem_system.mem_if_ddr3_emif_0 -pg 1 -lvl 3 -y 2380
+preplace inst mem_system.W_BUF_4_0_EX -pg 1 -lvl 6 -y 4790
+preplace inst mem_system.pcie_system.pcie_256_dma -pg 1
+preplace inst mem_system.OUT_BUF_3 -pg 1 -lvl 6 -y 1320
+preplace inst mem_system.W_BUF_3_0 -pg 1 -lvl 6 -y 4330
+preplace inst mem_system.mem_if_ddr3_emif_0.dmaster.p2b -pg 1
+preplace inst mem_system.mem_if_ddr3_emif_0.dmaster.jtag_phy_embedded_in_jtag_master -pg 1
+preplace inst mem_system.OUT_BUF_4 -pg 1 -lvl 6 -y 1680
+preplace inst mem_system.W_BUF_3_1 -pg 1 -lvl 6 -y 4510
+preplace inst mem_system.W_BUF_1_0 -pg 1 -lvl 6 -y 3610
+preplace inst mem_system.OUT_BUF_5 -pg 1 -lvl 6 -y 2020
+preplace inst mem_system.W_BUF_1_1 -pg 1 -lvl 6 -y 3790
+preplace inst mem_system.OUT_BUF_5_P1_EX -pg 1 -lvl 6 -y 1880
+preplace inst mem_system.OUT_BUF_6 -pg 1 -lvl 6 -y 2220
+preplace inst mem_system.OUT_BUF_7 -pg 1 -lvl 6 -y 2840
+preplace inst mem_system.mem_if_ddr3_emif_0.c0 -pg 1
+preplace inst mem_system.OUT_BUF_7_P2_EX -pg 1 -lvl 6 -y 2740
+preplace inst mem_system.IN_BUF_0_EX -pg 1 -lvl 6 -y 40
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)W_BUF_2_1_EX.avalon_master,(SLAVE)W_BUF_2_1.s1) 1 5 2 2190 4320 2420
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)W_BUF_6_0.s1,(MASTER)W_BUF_6_0_EX.avalon_master) 1 5 2 2170 5900 2440
+preplace netloc FAN_IN<net_container>mem_system</net_container>(MASTER)cent_ctrl.sdram_rw,(MASTER)cent_ctrl.sdram_self_test,(MASTER)mem_if_ddr3_export_bridge.avalon_master,(SLAVE)mem_if_ddr3_emif_0.avl) 1 2 4 940 2300 NJ 2300 NJ 2340 2030
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)W_BUF_0_0_EX.avalon_master,(SLAVE)W_BUF_0_0.s1) 1 5 2 2190 3330 2420
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)W_BUF_3_1.s1,(MASTER)W_BUF_3_1_EX.avalon_master) 1 5 2 2190 4680 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)From_CC.external_connection,(SLAVE)mem_system.from_cc) 1 0 6 NJ 3150 NJ 3150 NJ 3070 NJ 3070 NJ 3070 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)pcie_system.pcie_rxm_bar2,(SLAVE)cent_ctrl.pcie_rw) 1 1 4 NJ 2790 NJ 2790 NJ 2790 1690
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.out_buf_6_p1,(SLAVE)OUT_BUF_6_P1_EX.ex) 1 0 6 NJ 2280 NJ 2280 NJ 2280 NJ 2280 NJ 2280 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)W_BUF_5_1_EX.avalon_master,(SLAVE)W_BUF_5_1.s1) 1 5 2 2190 5440 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.out_buf_2_p1_reset,(MASTER)OUT_BUF_2_P1_EX.reset_source) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.out_buf_1_p1_reset,(MASTER)OUT_BUF_1_P1_EX.reset_source) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.hip_serial,(SLAVE)pcie_system.hip_serial) 1 0 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)IN_BUF_0_EX.reset_source,(MASTER)mem_system.in_buf_0_reset) 1 6 1 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)IN_BUF_0.s1,(MASTER)IN_BUF_0_EX.avalon_master) 1 5 2 2190 30 2440
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)W_BUF_3_1_EX.ex,(SLAVE)mem_system.w_buf_3_1) 1 0 6 NJ 4620 NJ 4620 NJ 4620 NJ 4620 NJ 4620 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.out_buf_3_p2,(SLAVE)OUT_BUF_3_P2_EX.ex) 1 0 6 NJ 1530 NJ 1530 NJ 1530 NJ 1530 NJ 1530 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.w_buf_3_0_reset,(MASTER)W_BUF_3_0_EX.reset_source) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)sys_clk_0.clk_in_reset,(SLAVE)mem_system.sys_sdram_pll_0_ref_reset) 1 0 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.out_buf_2_p2_reset,(MASTER)OUT_BUF_2_P2_EX.reset_source) 1 6 1 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)IN_BUF_1.s1,(MASTER)IN_BUF_1_EX.avalon_master) 1 5 2 2190 370 2440
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.out_buf_5_p2_reset,(MASTER)OUT_BUF_5_P2_EX.reset_source) 1 6 1 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_5.s1,(MASTER)OUT_BUF_5_P1_EX.avalon_master) 1 5 2 2190 2010 2420
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)OUT_BUF_4_P2_EX.avalon_master,(SLAVE)OUT_BUF_4.s2) 1 5 2 2190 1870 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.memory,(SLAVE)mem_if_ddr3_emif_0.memory) 1 0 3 NJ 2430 NJ 2430 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)cent_ctrl.mem_status_in,(SLAVE)mem_if_ddr3_emif_0.status) 1 2 3 1000 2580 NJ 2540 1630
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_7.s2,(MASTER)OUT_BUF_7_P2_EX.avalon_master) 1 5 2 2170 2830 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_2_P2_EX.ex,(SLAVE)mem_system.out_buf_2_p2) 1 0 6 NJ 1230 NJ 1230 NJ 1230 NJ 1230 NJ 1230 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.w_buf_3_0,(SLAVE)W_BUF_3_0_EX.ex) 1 0 6 NJ 4440 NJ 4440 NJ 4440 NJ 4440 NJ 4440 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)pcie_system.refclk,(SLAVE)mem_system.refclk) 1 0 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)W_BUF_6_0_EX.reset_source,(MASTER)mem_system.w_buf_6_0_reset) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.w_buf_2_1,(SLAVE)W_BUF_2_1_EX.ex) 1 0 6 NJ 4260 NJ 4260 NJ 4260 NJ 4260 NJ 4260 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)OUT_BUF_7_P2_EX.reset_source,(MASTER)mem_system.out_buf_7_p2_reset) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.w_buf_4_0,(SLAVE)W_BUF_4_0_EX.ex) 1 0 6 NJ 4820 NJ 4820 NJ 4820 NJ 4820 NJ 4820 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)OUT_BUF_4_P1_EX.avalon_master,(SLAVE)OUT_BUF_4.s1) 1 5 2 2190 1670 2420
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_0.s1,(MASTER)OUT_BUF_0_P1_EX.avalon_master) 1 5 2 2170 770 2440
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)W_BUF_3_0.s1,(MASTER)W_BUF_3_0_EX.avalon_master) 1 5 2 2190 4500 2420
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)W_BUF_1_1.s1,(MASTER)W_BUF_1_1_EX.avalon_master) 1 5 2 2190 3960 2420
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)pld_clk_export.out_clk_1,(SLAVE)cent_ctrl.pcie_clock) 1 2 3 NJ 1950 NJ 1990 1690
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)W_BUF_5_0_EX.avalon_master,(SLAVE)W_BUF_5_0.s1) 1 5 2 2190 5260 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.out_buf_5_p1_reset,(MASTER)OUT_BUF_5_P1_EX.reset_source) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.out_buf_1_p1,(SLAVE)OUT_BUF_1_P1_EX.ex) 1 0 6 NJ 710 NJ 710 NJ 710 NJ 710 NJ 710 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)mem_if_ddr3_emif_0.pll_ref_clk,(MASTER)sys_clk_0.clk) 1 1 2 NJ 3070 980
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.w_buf_1_0,(SLAVE)W_BUF_1_0_EX.ex) 1 0 6 NJ 3740 NJ 3740 NJ 3740 NJ 3740 NJ 3740 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.w_buf_6_1,(SLAVE)W_BUF_6_1_EX.ex) 1 0 6 NJ 5760 NJ 5760 NJ 5760 NJ 5760 NJ 5760 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_1.s1,(MASTER)OUT_BUF_1_P1_EX.avalon_master) 1 5 2 2190 670 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.out_buf_6_p2_reset,(MASTER)OUT_BUF_6_P2_EX.reset_source) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.out_buf_7_p2,(SLAVE)OUT_BUF_7_P2_EX.ex) 1 0 6 NJ 2590 NJ 2730 NJ 2730 NJ 2580 NJ 2640 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)W_BUF_2_0_EX.ex,(SLAVE)mem_system.w_buf_2_0) 1 0 6 NJ 4100 NJ 4100 NJ 4100 NJ 4100 NJ 4100 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)OUT_BUF_2_P1_EX.avalon_master,(SLAVE)OUT_BUF_2.s1) 1 5 2 2190 990 2420
+preplace netloc FAN_OUT<net_container>mem_system</net_container>(SLAVE)W_BUF_6_1.clk1,(SLAVE)OUT_BUF_5.clk1,(SLAVE)W_BUF_7_0_EX.clock,(SLAVE)sys_clk_export.in_clk,(SLAVE)IN_BUF_0_EX.clock,(SLAVE)W_BUF_2_0_EX.clock,(SLAVE)OUT_BUF_6_P2_EX.clock,(SLAVE)W_BUF_6_0.clk1,(SLAVE)OUT_BUF_0.clk1,(SLAVE)W_BUF_3_0_EX.clock,(SLAVE)W_BUF_0_1.clk1,(SLAVE)W_BUF_2_0.clk1,(SLAVE)OUT_BUF_0_P2_EX.clock,(SLAVE)W_BUF_3_1_EX.clock,(SLAVE)W_BUF_3_1.clk1,(SLAVE)W_BUF_0_0.clk1,(SLAVE)W_BUF_1_0.clk1,(SLAVE)OUT_BUF_6.clk1,(SLAVE)cent_ctrl.clock,(SLAVE)W_BUF_5_0.clk1,(SLAVE)W_BUF_5_0_EX.clock,(SLAVE)To_CC.clk,(SLAVE)mem_if_ddr3_export_bridge.clock,(SLAVE)W_BUF_0_0_EX.clock,(SLAVE)OUT_BUF_7_P1_EX.clock,(SLAVE)OUT_BUF_0_P1_EX.clock,(SLAVE)OUT_BUF_7_P2_EX.clock,(SLAVE)OUT_BUF_4.clk1,(SLAVE)W_BUF_5_1.clk1,(SLAVE)OUT_BUF_5_P2_EX.clock,(SLAVE)W_BUF_3_0.clk1,(SLAVE)IN_BUF_1.clk1,(SLAVE)OUT_BUF_4_P2_EX.clock,(SLAVE)W_BUF_4_0_EX.clock,(SLAVE)W_BUF_2_1.clk1,(SLAVE)OUT_BUF_7.clk1,(SLAVE)W_BUF_0_1_EX.clock,(SLAVE)IN_BUF_1_EX.clock,(SLAVE)IN_BUF_0.clk1,(SLAVE)OUT_BUF_2_P2_EX.clock,(SLAVE)W_BUF_7_1.clk1,(SLAVE)W_BUF_6_1_EX.clock,(SLAVE)OUT_BUF_5_P1_EX.clock,(SLAVE)W_BUF_4_0.clk1,(SLAVE)OUT_BUF_4_P1_EX.clock,(SLAVE)OUT_BUF_1.clk1,(SLAVE)W_BUF_6_0_EX.clock,(SLAVE)W_BUF_4_1.clk1,(SLAVE)W_BUF_2_1_EX.clock,(SLAVE)OUT_BUF_3_P1_EX.clock,(SLAVE)W_BUF_7_1_EX.clock,(SLAVE)W_BUF_1_1.clk1,(SLAVE)W_BUF_1_1_EX.clock,(SLAVE)OUT_BUF_2_P1_EX.clock,(SLAVE)OUT_BUF_6_P1_EX.clock,(SLAVE)OUT_BUF_3.clk1,(SLAVE)W_BUF_7_0.clk1,(SLAVE)From_CC.clk,(SLAVE)OUT_BUF_1_P1_EX.clock,(MASTER)mem_if_ddr3_emif_0.afi_clk,(SLAVE)OUT_BUF_2.clk1,(SLAVE)OUT_BUF_3_P2_EX.clock,(SLAVE)W_BUF_4_1_EX.clock,(SLAVE)OUT_BUF_1_P2_EX.clock,(SLAVE)pcie_system.avl_clk,(SLAVE)W_BUF_1_0_EX.clock,(SLAVE)W_BUF_5_1_EX.clock) 1 0 6 270 2570 670 2640 NJ 2600 1350 2010 1710 1990 2110
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.w_buf_0_1_reset,(MASTER)W_BUF_0_1_EX.reset_source) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_0_P2_EX.ex,(SLAVE)mem_system.out_buf_0_p2) 1 0 6 NJ 610 NJ 610 NJ 610 NJ 610 NJ 610 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)OUT_BUF_1_P2_EX.avalon_master,(SLAVE)OUT_BUF_1.s2) 1 5 2 2190 890 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)To_CC.external_connection,(SLAVE)mem_system.to_cc) 1 0 6 NJ 3170 NJ 3170 NJ 3170 NJ 3170 NJ 3170 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)pld_clk_export.in_clk,(MASTER)pcie_system.pld_clk) 1 1 1 690
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.out_buf_4_p2,(SLAVE)OUT_BUF_4_P2_EX.ex) 1 0 6 NJ 1810 NJ 1810 NJ 1810 NJ 1810 NJ 1810 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_3.s2,(MASTER)OUT_BUF_3_P2_EX.avalon_master) 1 5 2 2190 1310 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)W_BUF_2_1_EX.reset_source,(MASTER)mem_system.w_buf_2_1_reset) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)W_BUF_6_0_EX.ex,(SLAVE)mem_system.w_buf_6_0) 1 0 6 NJ 5580 NJ 5580 NJ 5580 NJ 5580 NJ 5580 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)OUT_BUF_0_P2_EX.reset_source,(MASTER)mem_system.out_buf_0_p2_reset) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_7_P1_EX.ex,(SLAVE)mem_system.out_buf_7_p1) 1 0 6 NJ 2990 NJ 2990 NJ 2990 NJ 2990 NJ 2990 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)pcie_system.tl_cfg,(SLAVE)mem_system.tl_cfg) 1 0 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.w_buf_1_1_reset,(MASTER)W_BUF_1_1_EX.reset_source) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.w_buf_7_0,(SLAVE)W_BUF_7_0_EX.ex) 1 0 6 NJ 5940 NJ 5940 NJ 5940 NJ 5940 NJ 5940 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.out_buf_5_p1,(SLAVE)OUT_BUF_5_P1_EX.ex) 1 0 6 NJ 1890 NJ 1890 NJ 1890 NJ 1890 NJ 1890 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)W_BUF_4_1.s1,(MASTER)W_BUF_4_1_EX.avalon_master) 1 5 2 2190 4980 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)OUT_BUF_1_P2_EX.reset_source,(MASTER)mem_system.out_buf_1_p2_reset) 1 6 1 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_5.s2,(MASTER)OUT_BUF_5_P2_EX.avalon_master) 1 5 2 2190 2130 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.w_buf_5_1,(SLAVE)W_BUF_5_1_EX.ex) 1 0 6 NJ 5380 NJ 5380 NJ 5380 NJ 5380 NJ 5380 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)pld_clk_export.out_clk,(MASTER)mem_system.pld_clk) 1 2 5 NJ 1930 NJ 1930 NJ 1910 NJ 1970 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)W_BUF_3_1_EX.reset_source,(MASTER)mem_system.w_buf_3_1_reset) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.reset,(SLAVE)pcie_system.reset) 1 0 1 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)OUT_BUF_0_P2_EX.avalon_master,(SLAVE)OUT_BUF_0.s2) 1 5 2 2190 570 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.w_buf_5_1_reset,(MASTER)W_BUF_5_1_EX.reset_source) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)OUT_BUF_4_P2_EX.reset_source,(MASTER)mem_system.out_buf_4_p2_reset) 1 6 1 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)pcie_system.avl_ocmem,(MASTER)cent_ctrl.ocmem_rw) 1 0 6 230 2530 NJ 2540 NJ 2620 NJ 2560 NJ 2560 2050
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.out_buf_4_p1,(SLAVE)OUT_BUF_4_P1_EX.ex) 1 0 6 NJ 1610 NJ 1610 NJ 1610 NJ 1610 NJ 1610 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.out_buf_6_p2,(SLAVE)OUT_BUF_6_P2_EX.ex) 1 0 6 NJ 2340 NJ 2340 NJ 2340 NJ 2470 NJ 2470 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.w_buf_4_0_reset,(MASTER)W_BUF_4_0_EX.reset_source) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.w_buf_0_0_reset,(MASTER)W_BUF_0_0_EX.reset_source) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)W_BUF_4_1_EX.reset_source,(MASTER)mem_system.w_buf_4_1_reset) 1 6 1 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)OUT_BUF_6_P1_EX.avalon_master,(SLAVE)OUT_BUF_6.s1) 1 5 2 2170 2530 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.intx_interface,(SLAVE)pcie_system.intx_interface) 1 0 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)OUT_BUF_3_P1_EX.reset_source,(MASTER)mem_system.out_buf_3_p1_reset) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.in_buf_1,(SLAVE)IN_BUF_1_EX.ex) 1 0 6 NJ 230 NJ 230 NJ 230 NJ 230 NJ 230 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)pcie_system.pcie_rstn,(SLAVE)mem_system.pcie_rstn) 1 0 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.w_buf_1_0_reset,(MASTER)W_BUF_1_0_EX.reset_source) 1 6 1 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_7.s1,(MASTER)OUT_BUF_7_P1_EX.avalon_master) 1 5 2 2190 2950 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)pcie_system.hip_ctrl,(SLAVE)mem_system.hip_ctrl) 1 0 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.w_buf_7_0_reset,(MASTER)W_BUF_7_0_EX.reset_source) 1 6 1 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)OUT_BUF_3_P1_EX.avalon_master,(SLAVE)OUT_BUF_3.s1) 1 5 2 2170 1290 2440
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)cent_ctrl.self_test_status_export,(SLAVE)mem_system.self_test_status) 1 0 5 NJ 2130 NJ 2130 NJ 2130 NJ 2130 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.hip_pipe,(SLAVE)pcie_system.hip_pipe) 1 0 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.w_buf_4_1,(SLAVE)W_BUF_4_1_EX.ex) 1 0 6 NJ 5020 NJ 5020 NJ 5020 NJ 5020 NJ 5020 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_1_P2_EX.ex,(SLAVE)mem_system.out_buf_1_p2) 1 0 6 NJ 930 NJ 930 NJ 930 NJ 930 NJ 930 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)cent_ctrl.pcie_reset,(MASTER)pcie_system.pcie_reset) 1 1 4 NJ 2770 NJ 2770 NJ 2770 1670
+preplace netloc FAN_OUT<net_container>mem_system</net_container>(SLAVE)W_BUF_1_1.reset1,(SLAVE)mem_if_ddr3_export_bridge.reset,(SLAVE)OUT_BUF_7_P2_EX.reset,(SLAVE)W_BUF_3_1_EX.reset,(SLAVE)OUT_BUF_0_P2_EX.reset,(SLAVE)OUT_BUF_3.reset1,(SLAVE)OUT_BUF_7.reset1,(SLAVE)W_BUF_2_1.reset1,(SLAVE)OUT_BUF_6_P2_EX.reset,(SLAVE)OUT_BUF_4.reset1,(SLAVE)OUT_BUF_5_P2_EX.reset,(SLAVE)OUT_BUF_2_P1_EX.reset,(SLAVE)W_BUF_5_1_EX.reset,(SLAVE)cent_ctrl.reset_n,(SLAVE)W_BUF_2_1_EX.reset,(SLAVE)OUT_BUF_1.reset1,(SLAVE)W_BUF_4_0.reset1,(SLAVE)OUT_BUF_1_P2_EX.reset,(SLAVE)W_BUF_7_1_EX.reset,(SLAVE)W_BUF_4_1_EX.reset,(SLAVE)W_BUF_0_1_EX.reset,(SLAVE)From_CC.reset,(SLAVE)W_BUF_3_0.reset1,(SLAVE)OUT_BUF_3_P1_EX.reset,(SLAVE)OUT_BUF_4_P1_EX.reset,(SLAVE)OUT_BUF_5.reset1,(SLAVE)W_BUF_5_0_EX.reset,(SLAVE)W_BUF_7_1.reset1,(SLAVE)OUT_BUF_5_P1_EX.reset,(SLAVE)To_CC.reset,(SLAVE)W_BUF_0_1.reset1,(SLAVE)mem_if_ddr3_emif_0.soft_reset,(SLAVE)W_BUF_2_0.reset1,(SLAVE)IN_BUF_0.reset1,(SLAVE)W_BUF_0_0.reset1,(SLAVE)W_BUF_3_1.reset1,(SLAVE)W_BUF_0_0_EX.reset,(SLAVE)W_BUF_7_0_EX.reset,(SLAVE)IN_BUF_1.reset1,(SLAVE)OUT_BUF_1_P1_EX.reset,(SLAVE)OUT_BUF_2.reset1,(SLAVE)OUT_BUF_0_P1_EX.reset,(SLAVE)OUT_BUF_0.reset1,(SLAVE)W_BUF_2_0_EX.reset,(SLAVE)W_BUF_6_0_EX.reset,(SLAVE)IN_BUF_0_EX.reset,(SLAVE)W_BUF_7_0.reset1,(SLAVE)W_BUF_6_0.reset1,(MASTER)sys_clk_0.clk_reset,(SLAVE)W_BUF_5_1.reset1,(SLAVE)W_BUF_1_1_EX.reset,(SLAVE)W_BUF_1_0.reset1,(SLAVE)W_BUF_6_1_EX.reset,(SLAVE)OUT_BUF_3_P2_EX.reset,(SLAVE)W_BUF_4_0_EX.reset,(SLAVE)W_BUF_6_1.reset1,(SLAVE)mem_if_ddr3_emif_0.global_reset,(SLAVE)OUT_BUF_6_P1_EX.reset,(SLAVE)OUT_BUF_6.reset1,(SLAVE)pcie_system.avl_reset,(SLAVE)W_BUF_5_0.reset1,(SLAVE)W_BUF_1_0_EX.reset,(SLAVE)OUT_BUF_7_P1_EX.reset,(SLAVE)W_BUF_3_0_EX.reset,(SLAVE)OUT_BUF_2_P2_EX.reset,(SLAVE)OUT_BUF_4_P2_EX.reset,(SLAVE)W_BUF_4_1.reset1,(SLAVE)IN_BUF_1_EX.reset) 1 0 6 250 2620 750 2520 960 2320 NJ 2320 1710 2320 2150
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)W_BUF_1_0_EX.avalon_master,(SLAVE)W_BUF_1_0.s1) 1 5 2 2190 3700 2420
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)W_BUF_7_1.s1,(MASTER)W_BUF_7_1_EX.avalon_master) 1 5 2 2190 6100 2420
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)W_BUF_7_0.s1,(MASTER)W_BUF_7_0_EX.avalon_master) 1 5 2 2190 6000 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.out_buf_6_p1_reset,(MASTER)OUT_BUF_6_P1_EX.reset_source) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)OUT_BUF_0_P1_EX.reset_source,(MASTER)mem_system.out_buf_0_p1_reset) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)pcie_system.clk,(SLAVE)mem_system.clk) 1 0 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)OUT_BUF_7_P1_EX.reset_source,(MASTER)mem_system.out_buf_7_p1_reset) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.in_buf_1_reset,(MASTER)IN_BUF_1_EX.reset_source) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.sys_clk,(MASTER)sys_clk_export.out_clk) 1 4 3 NJ 1930 NJ 1990 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_5_P2_EX.ex,(SLAVE)mem_system.out_buf_5_p2) 1 0 6 NJ 2210 NJ 2210 NJ 2210 NJ 2210 NJ 2210 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)W_BUF_4_0_EX.avalon_master,(SLAVE)W_BUF_4_0.s1) 1 5 2 2190 4780 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)OUT_BUF_4_P1_EX.reset_source,(MASTER)mem_system.out_buf_4_p1_reset) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.w_buf_5_0,(SLAVE)W_BUF_5_0_EX.ex) 1 0 6 NJ 5200 NJ 5200 NJ 5200 NJ 5200 NJ 5200 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.w_buf_0_1,(SLAVE)W_BUF_0_1_EX.ex) 1 0 6 NJ 3550 NJ 3550 NJ 3550 NJ 3550 NJ 3550 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.w_buf_0_0,(SLAVE)W_BUF_0_0_EX.ex) 1 0 6 NJ 3370 NJ 3370 NJ 3370 NJ 3370 NJ 3370 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)pcie_system.pcie_256_hip_avmm_0_reconfig_clk_locked,(SLAVE)mem_system.pcie_256_hip_avmm_0_reconfig_clk_locked) 1 0 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)sys_clk_0.clk_in,(SLAVE)mem_system.sys_ref_clk) 1 0 1 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)W_BUF_0_1_EX.avalon_master,(SLAVE)W_BUF_0_1.s1) 1 5 2 2190 3510 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_3_P1_EX.ex,(SLAVE)mem_system.out_buf_3_p1) 1 0 6 NJ 1450 NJ 1450 NJ 1450 NJ 1450 NJ 1450 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)W_BUF_7_1_EX.reset_source,(MASTER)mem_system.w_buf_7_1_reset) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.mem_if_ddr3_0_avl,(SLAVE)mem_if_ddr3_export_bridge.avalon_slave) 1 0 2 NJ 2550 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.in_buf_0,(SLAVE)IN_BUF_0_EX.ex) 1 0 6 NJ 70 NJ 70 NJ 70 NJ 70 NJ 70 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.out_buf_0_p1,(SLAVE)OUT_BUF_0_P1_EX.ex) 1 0 6 NJ 410 NJ 410 NJ 410 NJ 410 NJ 410 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)W_BUF_1_1_EX.ex,(SLAVE)mem_system.w_buf_1_1) 1 0 6 NJ 3900 NJ 3900 NJ 3900 NJ 3900 NJ 3900 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_2_P1_EX.ex,(SLAVE)mem_system.out_buf_2_p1) 1 0 6 NJ 1130 NJ 1130 NJ 1130 NJ 1130 NJ 1130 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)W_BUF_6_1_EX.reset_source,(MASTER)mem_system.w_buf_6_1_reset) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)cent_ctrl.status_export,(SLAVE)mem_system.sdram_status) 1 0 5 NJ 2150 NJ 2150 NJ 2150 NJ 2150 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)W_BUF_6_1.s1,(MASTER)W_BUF_6_1_EX.avalon_master) 1 5 2 2190 5720 2420
+preplace netloc FAN_OUT<net_container>mem_system</net_container>(SLAVE)To_CC.s1,(MASTER)cent_ctrl.fpga_conn,(SLAVE)From_CC.s1) 1 5 1 2070
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)mem_system.out_buf_3_p2_reset,(MASTER)OUT_BUF_3_P2_EX.reset_source) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.user_io,(SLAVE)cent_ctrl.user_io) 1 0 5 NJ 2170 NJ 2170 NJ 2170 NJ 2170 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)W_BUF_2_0.s1,(MASTER)W_BUF_2_0_EX.avalon_master) 1 5 2 2190 4060 2420
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.w_buf_7_1,(SLAVE)W_BUF_7_1_EX.ex) 1 0 6 NJ 6140 NJ 6140 NJ 6140 NJ 6140 NJ 6140 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)W_BUF_5_0_EX.reset_source,(MASTER)mem_system.w_buf_5_0_reset) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(MASTER)W_BUF_2_0_EX.reset_source,(MASTER)mem_system.w_buf_2_0_reset) 1 6 1 NJ
+preplace netloc EXPORT<net_container>mem_system</net_container>(SLAVE)mem_system.oct,(SLAVE)mem_if_ddr3_emif_0.oct) 1 0 3 NJ 2450 NJ 2450 NJ
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(SLAVE)OUT_BUF_2.s2,(MASTER)OUT_BUF_2_P2_EX.avalon_master) 1 5 2 2190 1190 2420
+preplace netloc POINT_TO_POINT<net_container>mem_system</net_container>(MASTER)OUT_BUF_6_P2_EX.avalon_master,(SLAVE)OUT_BUF_6.s2) 1 5 2 2190 2330 2440
+levelinfo -pg 1 0 200 2600
+levelinfo -hier mem_system 210 480 780 1150 1500 1840 2260 2460

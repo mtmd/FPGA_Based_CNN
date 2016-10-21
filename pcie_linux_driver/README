@@ -1,0 +1,12 @@
+altera_dma -- Linux driver
+--------------------------
+
+INSTALL & RUN
+-------------
+
+To make and install the driver,
+    sudo ./install
+
+To bring up a simple menu to issue commands to the driver,
+    sudo ./run
+

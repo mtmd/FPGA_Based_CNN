@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<pin_planner>
+	<pin_info>
+		<pin name="DDR3A_CK[1]" direction="Output" source="Hierarchy Database" >
+		</pin>
+		<pin name="DDR3A_CK[0]" direction="Output" source="Hierarchy Database" >
+		</pin>
+		<pin name="DDR3A_DQS[0]" direction="Bidir" source="Hierarchy Database" >
+		</pin>
+		<pin name="DDR3A_DQS_n[1]" source="Assignments" >
+		</pin>
+		<pin name="DDR3A_DQS[1]" source="Assignments" >
+		</pin>
+		<pin name="DDR3A_DQS_n[2]" source="Assignments" >
+		</pin>
+		<pin name="DDR3A_DQS[2]" source="Assignments" >
+		</pin>
+		<pin name="DDR3A_DQS_n[3]" source="Assignments" >
+		</pin>
+		<pin name="DDR3A_DQS[3]" source="Assignments" >
+		</pin>
+		<pin name="DDR3A_DQS_n[4]" source="Assignments" >
+		</pin>
+		<pin name="DDR3A_DQS[4]" source="Assignments" >
+		</pin>
+		<pin name="DDR3A_DQS_n[5]" source="Assignments" >
+		</pin>
+		<pin name="DDR3A_DQS[5]" source="Assignments" >
+		</pin>
+		<pin name="DDR3A_DQS_n[6]" source="Assignments" >
+		</pin>
+		<pin name="DDR3A_DQS[6]" source="Assignments" >
+		</pin>
+		<pin name="DDR3A_DQS_n[7]" source="Assignments" >
+		</pin>
+		<pin name="DDR3A_DQS[7]" source="Assignments" >
+		</pin>
+	</pin_info>
+	<buses>
+	</buses>
+	<group_file_association>
+	</group_file_association>
+	<pin_planner_file_specifies>
+	</pin_planner_file_specifies>
+</pin_planner>

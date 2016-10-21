@@ -1,0 +1,3 @@
+#!/bin/sh
+rmmod altera_dma
+rm /dev/altera_dma
