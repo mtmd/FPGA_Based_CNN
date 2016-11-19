@@ -8,7 +8,6 @@
 *_inst.vhd
 *_generation_script*
 *.done
-*.txt
 *.qarlog
 *.rpt
 *.summary
@@ -22,8 +21,4 @@
 *.sopc_builder
 *example*
 *~
-*.sdc
-*.tcl
 *.pin
-*.mif
-*.hex
