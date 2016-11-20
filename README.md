@@ -8,7 +8,9 @@
     * Install instruction present in README
 	
 This project is a FPGA based implementation of first Convolutional Layer of AlexNet. The accelerator is developed using Verilog. 
-
+## Contact
+Currently Sachin Kumawat is developing this project. If you have question or need further information, please contact him.
+Email: skumawat@ucdavis.edu 
 ## Citing
 Our [research group](http://lepsucd.com) is working on acceleration of deep CNNs. If this project
 helped your research, please kindly cite our latest conference paper:
