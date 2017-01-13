@@ -3,12 +3,14 @@
 * Open DE5Net_Conv_Accelerator/DE5Net_Conv_Accelerator.qsf with *Quartus v16.0.0* on **Computer 1**
     * Generate Qsys System *mem_system*
     * Perform Full Compilation
-    * Use computer 1 to program the FPGA device installed on HOST Computer (**Computer 2**). NOTE: This will cause the host computer Kernel to reset and it will automatically reboot. Please save all you work before proceeding with this.
+    * Use computer 1 to program the FPGA device installed on HOST Computer (**Computer 2**) via the USB-Blaster cable. NOTE: This will cause the host computer Kernel to reset and it will automatically reboot. Please save all you work before proceeding with this
     * Reboot the host computer to train the PCIe link with FPGA board.
 
 * Install PCI-Express linux driver on Host PC (**Computer 2**)
+    * Program the FPGA and reboot as mentioned above before performing the installation
     * Install instructions present in README
-    * Refer to *Using the User Application* pdf for instructions on data transfer.
+    
+* Refer to *Using the User Application* pdf for instructions on data transfer.
 	
 This project is a FPGA based implementation of first Convolutional Layer of AlexNet. The accelerator is developed using Verilog. 
 ## Contact
